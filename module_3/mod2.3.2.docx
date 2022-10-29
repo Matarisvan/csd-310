@@ -1,0 +1,30 @@
+CSD310
+Luis Padilla
+10/28/22
+Mod2.3 Part 2
+
+{
+    "_id": "luis",
+    "name": "Luis Padilla",
+    "birthdate": { "month": "August", "day": 7 }
+    "roles": [
+        {
+        "role_id": 1,
+        "role_name": "Student",
+        },
+        {
+        "role_id": 2,
+        "role_name": "Employee:,
+        }
+        ]
+    "dependents": [
+        {    
+        "dependent_id": "fish",
+        "dependent_name": "Sushi",
+        },
+        {
+        "dependent_id": "cat",
+        "dependent_name": "Peach",
+        }
+        ]
+}
